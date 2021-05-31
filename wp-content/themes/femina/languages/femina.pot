@@ -1,0 +1,436 @@
+# Copyright (C) 2020 acalfieri
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Femina 1.1.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/femina\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-02-02T16:23:42+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.1.0\n"
+"X-Domain: femina\n"
+
+#. Theme Name of the theme
+msgid "Femina"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "https://ebyb.eu/themes/femina/"
+msgstr ""
+
+#. Description of the theme
+msgid "Femina is my first WordPress theme, written with love for simple code. It was designed to be fully responsive by taking the mobile-first approach. Besides a very customizable header, it features the full range of post formats, three menu locations, two widget areas in the sidebar and three in the footer. It is accessibility and translation ready and has full Gutenberg support."
+msgstr ""
+
+#. Author of the theme
+msgid "acalfieri"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://ebyb.eu"
+msgstr ""
+
+#: functions.php:102
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:103
+msgid "Secondary Menu"
+msgstr ""
+
+#: functions.php:104
+msgid "Social Links Menu"
+msgstr ""
+
+#: functions.php:172
+msgid "First Sidebar Area"
+msgstr ""
+
+#: functions.php:174
+msgid "Add widgets here to appear in your first sidebar."
+msgstr ""
+
+#: functions.php:181
+msgid "Second Sidebar Area"
+msgstr ""
+
+#: functions.php:183
+msgid "Add widgets here to appear in your second sidebar."
+msgstr ""
+
+#: functions.php:190
+msgid "First Footer Area"
+msgstr ""
+
+#: functions.php:192
+msgid "Add widgets here to appear in your first footer area."
+msgstr ""
+
+#: functions.php:199
+msgid "Second Footer Area"
+msgstr ""
+
+#: functions.php:201
+msgid "Add widgets here to appear in your second footer area."
+msgstr ""
+
+#: functions.php:208
+msgid "Third Footer Area"
+msgstr ""
+
+#: functions.php:210
+msgid "Add widgets here to appear in your third footer area."
+msgstr ""
+
+#: functions.php:236
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:244
+msgctxt "Bitter font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:252
+msgctxt "Inconsolata font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:260
+msgctxt "Happy Monkey font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:268
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr ""
+
+#: functions.php:314
+msgid "Expand child menu"
+msgstr ""
+
+#: functions.php:315
+msgid "Collapse child menu"
+msgstr ""
+
+#: category.php:18
+msgid "All articles in %s"
+msgstr ""
+
+#: 404.php:13
+msgid "Oops! That page can not be found."
+msgstr ""
+
+#: 404.php:17
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: inc/customizer.php:19
+msgid "Navigation"
+msgstr ""
+
+#: inc/customizer.php:20
+msgid "Pagination"
+msgstr ""
+
+#: inc/customizer.php:48
+msgid "Hide Site Title"
+msgstr ""
+
+#: inc/customizer.php:65
+msgid "Hide Tagline"
+msgstr ""
+
+#: inc/customizer.php:77
+msgid "Navigation Settings"
+msgstr ""
+
+#: inc/customizer.php:78
+msgid "In this section you can choose between navigation or pagination in multiple view pages."
+msgstr ""
+
+#: inc/customizer.php:91
+msgid "Choose your preferred mode of navigating between old and new articles"
+msgstr ""
+
+#. Translators: used between list items, there is a space after the comma.
+#: inc/template-tags.php:42
+#: template-parts/content-gallery.php:15
+#: template-parts/content-chat.php:15
+#: template-parts/content.php:17
+#: template-parts/content-video.php:15
+#: template-parts/content-search.php:17
+#: template-parts/content-post.php:14
+#: template-parts/content-post.php:78
+#: template-parts/content-image.php:15
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:66
+msgid "Next post:"
+msgstr ""
+
+#: inc/template-tags.php:67
+msgid "Previous post:"
+msgstr ""
+
+#: inc/template-tags.php:83
+msgid "Older articles"
+msgstr ""
+
+#: inc/template-tags.php:84
+msgid "Newer articles"
+msgstr ""
+
+#: inc/template-tags.php:88
+msgid "Previous page"
+msgstr ""
+
+#: inc/template-tags.php:89
+msgid "Next page"
+msgstr ""
+
+#: inc/template-tags.php:90
+#: template-parts/content-page.php:30
+#: template-parts/content-post.php:71
+#: image.php:95
+msgid "Page"
+msgstr ""
+
+#: inc/template-tags.php:104
+msgid "Older"
+msgstr ""
+
+#: inc/template-tags.php:105
+msgid "Newer"
+msgstr ""
+
+#. Translators: there is a space after "on.
+#: inc/template-tags.php:119
+msgid "No comments on "
+msgstr ""
+
+#. Translators: there is a space after "on.
+#: inc/template-tags.php:121
+msgid "Only one comment on "
+msgstr ""
+
+#. Translators: there is a space after "on.
+#: inc/template-tags.php:123
+msgid "% comments on "
+msgstr ""
+
+#. Translators: %s: Name of current post
+#: inc/template-tags.php:142
+msgid "More"
+msgstr ""
+
+#: inc/template-tags.php:168
+#: template-parts/content-gallery.php:50
+#: template-parts/content-page.php:13
+#: template-parts/content-chat.php:51
+#: template-parts/content.php:51
+#: template-parts/content-video.php:50
+#: template-parts/content-search.php:46
+#: template-parts/content-post.php:36
+#: template-parts/content-image.php:49
+#: image.php:54
+msgid "Edit"
+msgstr ""
+
+#: inc/back-compat.php:40
+#: inc/back-compat.php:52
+#: inc/back-compat.php:67
+msgid "Femina requires at least WordPress version 5.0. You are running version %s. Please upgrade and try again."
+msgstr ""
+
+#. translators: %s: post title
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr ""
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:32
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+
+#: comments.php:56
+msgid "Reply"
+msgstr ""
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr ""
+
+#: tag.php:17
+msgid "All articles about"
+msgstr ""
+
+#: search.php:15
+msgid "Search Results for: %s"
+msgstr ""
+
+#: header.php:27
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:30
+msgid "Skip to sidebar"
+msgstr ""
+
+#: header.php:35
+#: header.php:70
+msgid "Secondary Menu "
+msgstr ""
+
+#: header.php:58
+msgid "Menu"
+msgstr ""
+
+#: header.php:61
+msgid "Primary Menu "
+msgstr ""
+
+#: header.php:81
+#: footer.php:20
+msgid "Social Menu "
+msgstr ""
+
+#. Template Name of the theme
+msgid "Full Width, No Sidebar"
+msgstr ""
+
+#. Template Name of the theme
+msgid "No Sidebar"
+msgstr ""
+
+#: template-parts/content-gallery.php:27
+#: template-parts/content-chat.php:28
+#: template-parts/content.php:28
+#: template-parts/content-video.php:27
+#: template-parts/content-image.php:26
+msgid "Featured"
+msgstr ""
+
+#. Translators: there is a space after "By".
+#: template-parts/content-gallery.php:42
+#: template-parts/content-chat.php:43
+#: template-parts/content.php:43
+#: template-parts/content-video.php:42
+#: template-parts/content-search.php:38
+#: template-parts/content-post.php:23
+#: template-parts/content-image.php:41
+msgid "By "
+msgstr ""
+
+#: template-parts/content-none.php:12
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:18
+msgid "Ready to publish your first post?"
+msgstr ""
+
+#: template-parts/content-none.php:22
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:26
+msgid "It seems we can not find what you are looking for. Perhaps searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:26
+#: template-parts/content-post.php:67
+#: image.php:91
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content.php:67
+msgid "Continue reading"
+msgstr ""
+
+#. Translators: there is a space after "About".
+#: template-parts/author-bio.php:27
+#: template-parts/author-bio.php:31
+msgid "About "
+msgstr ""
+
+#: template-parts/content-post.php:40
+msgid "Leave a comment"
+msgstr ""
+
+#: template-parts/content-post.php:40
+msgid "1 Comment"
+msgstr ""
+
+#: template-parts/content-post.php:40
+msgid "% Comments"
+msgstr ""
+
+#. Translators: There is a space after "by".
+#: template-parts/content-post.php:83
+msgid "This article was written by "
+msgstr ""
+
+#: footer.php:17
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: author.php:18
+msgid "All articles by %s"
+msgstr ""
+
+#. Translators: There is a space after "on".
+#: image.php:33
+msgid "Published on "
+msgstr ""
+
+#. Translators: There is a space before and after "in".
+#: image.php:37
+msgid " in "
+msgstr ""
+
+#: image.php:39
+msgid "Return to:"
+msgstr ""
+
+#: image.php:48
+msgid "Link to full-size image"
+msgstr ""
+
+#: image.php:49
+msgid "Full resolution"
+msgstr ""
+
+#: image.php:63
+msgid "Previous"
+msgstr ""
+
+#: image.php:64
+msgid "Next"
+msgstr ""
+
+#: searchform.php:13
+#: searchform.php:14
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:14
+msgctxt "placeholder"
+msgid "Search"
+msgstr ""
+
+#: searchform.php:16
+msgctxt "submit button"
+msgid "Search"
+msgstr ""

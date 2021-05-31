@@ -1,0 +1,463 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Femina\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/femina\n"
+"POT-Creation-Date: 2020-02-02T16:23:42+00:00\n"
+"PO-Revision-Date: 2020-02-11 16:21+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_AR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#. Theme Name of the theme
+msgid "Femina"
+msgstr "Femina"
+
+#. Theme URI of the theme
+msgid "https://ebyb.eu/themes/femina/"
+msgstr "https://ebyb.eu/themes/femina/"
+
+#. Description of the theme
+msgid ""
+"Femina is my first WordPress theme, written with love for simple code. It "
+"was designed to be fully responsive by taking the mobile-first approach. "
+"Besides a very customizable header, it features the full range of post "
+"formats, three menu locations, two widget areas in the sidebar and three in "
+"the footer. It is accessibility and translation ready and has full Gutenberg "
+"support."
+msgstr ""
+"Femina es mi primer tema de WordPress, escrito con amor por el código "
+"simple. Fue diseñado para adaptarse a todos los tamaños de aparatos, usando "
+"el enfoque “mobile first”. Además de un encabezado muy personalizable, tiene "
+"toda la gama de formatos de publicación, tres ubicaciones de menú, dos áreas "
+"de widgets en la barra lateral y tres en el pie de página. Es accessible y "
+"está listo para la traducción, además de ser totalmente compatible con "
+"Gutenberg."
+
+#. Author of the theme
+msgid "acalfieri"
+msgstr "acalfieri"
+
+#. Author URI of the theme
+msgid "https://ebyb.eu"
+msgstr "https://ebyb.eu"
+
+#: functions.php:102
+msgid "Primary Menu"
+msgstr "Menú Principal"
+
+#: functions.php:103
+msgid "Secondary Menu"
+msgstr "Menu Secundario"
+
+#: functions.php:104
+msgid "Social Links Menu"
+msgstr "Menú de enlaces sociales"
+
+#: functions.php:172
+msgid "First Sidebar Area"
+msgstr "Primer área de la barra lateral"
+
+#: functions.php:174
+msgid "Add widgets here to appear in your first sidebar."
+msgstr ""
+"Agregá acá los widgets que querés que aparezcan en la primer área de la "
+"barra lateral."
+
+#: functions.php:181
+msgid "Second Sidebar Area"
+msgstr "Segunda área de la barra lateral"
+
+#: functions.php:183
+msgid "Add widgets here to appear in your second sidebar."
+msgstr ""
+"Agregá acá los widgets que querés que aparezcan en la segunda área de la "
+"barra lateral."
+
+#: functions.php:190
+msgid "First Footer Area"
+msgstr "Primer área de pie de página"
+
+#: functions.php:192
+msgid "Add widgets here to appear in your first footer area."
+msgstr ""
+"Agregá acá los widgets que querés que aparezcan en la primer área del pie de "
+"página."
+
+#: functions.php:199
+msgid "Second Footer Area"
+msgstr "Segunda área del pie de página"
+
+#: functions.php:201
+msgid "Add widgets here to appear in your second footer area."
+msgstr ""
+"Agregá acá los widgets que querés que aparezcan en la segunda área del pie "
+"de página."
+
+#: functions.php:208
+msgid "Third Footer Area"
+msgstr "Tercer área del pie de página"
+
+#: functions.php:210
+msgid "Add widgets here to appear in your third footer area."
+msgstr ""
+"Agregá acá los widgets que querés que aparezcan en la tercer área del pie de "
+"página."
+
+#: functions.php:236
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:244
+msgctxt "Bitter font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:252
+msgctxt "Inconsolata font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:260
+msgctxt "Happy Monkey font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:268
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr "no-subset"
+
+#: functions.php:314
+msgid "Expand child menu"
+msgstr "Abrir el submenu"
+
+#: functions.php:315
+msgid "Collapse child menu"
+msgstr "Cerrar el submenu"
+
+#: category.php:18
+msgid "All articles in %s"
+msgstr "Todos los artículos en %s"
+
+#: 404.php:13
+msgid "Oops! That page can not be found."
+msgstr "Ups! Esta página no existe."
+
+#: 404.php:17
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Parece que no hay nada aquí. ¿Y si probás hacer una búsqueda?"
+
+#: inc/customizer.php:19
+msgid "Navigation"
+msgstr "Navegación"
+
+#: inc/customizer.php:20
+msgid "Pagination"
+msgstr "Páginación"
+
+#: inc/customizer.php:48
+msgid "Hide Site Title"
+msgstr "Ocultar el título del sitio"
+
+#: inc/customizer.php:65
+msgid "Hide Tagline"
+msgstr "Ocultar la descripción del sitio"
+
+#: inc/customizer.php:77
+msgid "Navigation Settings"
+msgstr "Ajustes de navegación"
+
+#: inc/customizer.php:78
+msgid ""
+"In this section you can choose between navigation or pagination in multiple "
+"view pages."
+msgstr ""
+"En esta sección podés elegir entre navegación o paginación para las páginas "
+"de tipo blog."
+
+#: inc/customizer.php:91
+msgid "Choose your preferred mode of navigating between old and new articles"
+msgstr ""
+"Elegí tu forma de navegación preferida entre los artículos anteriores y los "
+"nuevos"
+
+#. Translators: used between list items, there is a space after the comma.
+#: inc/template-tags.php:42 template-parts/content-gallery.php:15
+#: template-parts/content-chat.php:15 template-parts/content.php:17
+#: template-parts/content-video.php:15 template-parts/content-search.php:17
+#: template-parts/content-post.php:14 template-parts/content-post.php:78
+#: template-parts/content-image.php:15
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:66
+msgid "Next post:"
+msgstr "Entrada siguiente:"
+
+#: inc/template-tags.php:67
+msgid "Previous post:"
+msgstr "Entrada anterior:"
+
+#: inc/template-tags.php:83
+msgid "Older articles"
+msgstr "Artículos anteriores"
+
+#: inc/template-tags.php:84
+msgid "Newer articles"
+msgstr "Artículos nuevos"
+
+#: inc/template-tags.php:88
+msgid "Previous page"
+msgstr "Página anterior"
+
+#: inc/template-tags.php:89
+msgid "Next page"
+msgstr "Página siguiente"
+
+#: inc/template-tags.php:90 template-parts/content-page.php:30
+#: template-parts/content-post.php:71 image.php:95
+msgid "Page"
+msgstr "Página"
+
+#: inc/template-tags.php:104
+msgid "Older"
+msgstr "Anterior"
+
+#: inc/template-tags.php:105
+msgid "Newer"
+msgstr "Siguiente"
+
+#. Translators: there is a space after "on.
+#: inc/template-tags.php:119
+msgid "No comments on "
+msgstr "No hay comentarios en "
+
+#. Translators: there is a space after "on.
+#: inc/template-tags.php:121
+msgid "Only one comment on "
+msgstr "Solo un comentario en "
+
+#. Translators: there is a space after "on.
+#: inc/template-tags.php:123
+msgid "% comments on "
+msgstr "% comentarios en "
+
+#. Translators: %s: Name of current post
+#: inc/template-tags.php:142
+msgid "More"
+msgstr "Más"
+
+#: inc/template-tags.php:168 template-parts/content-gallery.php:50
+#: template-parts/content-page.php:13 template-parts/content-chat.php:51
+#: template-parts/content.php:51 template-parts/content-video.php:50
+#: template-parts/content-search.php:46 template-parts/content-post.php:36
+#: template-parts/content-image.php:49 image.php:54
+msgid "Edit"
+msgstr "Editar"
+
+#: inc/back-compat.php:40 inc/back-compat.php:52 inc/back-compat.php:67
+msgid ""
+"Femina requires at least WordPress version 5.0. You are running version %s. "
+"Please upgrade and try again."
+msgstr ""
+"Femina requiere al menos la versión 5.0 de WordPress. Estás ejecutando la "
+"versión %s. Actualizá tu versión y probá de nuevo."
+
+#. translators: %s: post title
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Un comentario en &ldquo;%s&rdquo;"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:32
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s comentario en &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s comentarios en &ldquo;%2$s&rdquo;"
+
+#: comments.php:56
+msgid "Reply"
+msgstr "Responder"
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: tag.php:17
+msgid "All articles about"
+msgstr "Todos los artículos sobre"
+
+#: search.php:15
+msgid "Search Results for: %s"
+msgstr "Resultados de la búsqueda de: %s"
+
+#: header.php:27
+msgid "Skip to content"
+msgstr "Ir al contenido principal"
+
+#: header.php:30
+msgid "Skip to sidebar"
+msgstr "Ir a la barra lateral"
+
+#: header.php:35 header.php:70
+msgid "Secondary Menu "
+msgstr "Menú Secundario "
+
+#: header.php:58
+msgid "Menu"
+msgstr "Menú"
+
+#: header.php:61
+msgid "Primary Menu "
+msgstr "Menú primario "
+
+#: header.php:81 footer.php:20
+msgid "Social Menu "
+msgstr "Menú de redes sociales "
+
+#. Template Name of the theme
+msgid "Full Width, No Sidebar"
+msgstr "Ancho completo, sin barra lateral"
+
+#. Template Name of the theme
+msgid "No Sidebar"
+msgstr "Sin barra lateral"
+
+#: template-parts/content-gallery.php:27 template-parts/content-chat.php:28
+#: template-parts/content.php:28 template-parts/content-video.php:27
+#: template-parts/content-image.php:26
+msgid "Featured"
+msgstr "Destacado"
+
+#. Translators: there is a space after "By".
+#: template-parts/content-gallery.php:42 template-parts/content-chat.php:43
+#: template-parts/content.php:43 template-parts/content-video.php:42
+#: template-parts/content-search.php:38 template-parts/content-post.php:23
+#: template-parts/content-image.php:41
+msgid "By "
+msgstr "Por "
+
+#: template-parts/content-none.php:12
+msgid "Nothing Found"
+msgstr "No se encontró nada"
+
+#: template-parts/content-none.php:18
+msgid "Ready to publish your first post?"
+msgstr "Estás listo para publicar tu primera artículo?"
+
+#: template-parts/content-none.php:22
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Lo siento, pero nada coincide con tus términos de búsqueda. Por favor probá "
+"de nuevo con otras palabras."
+
+#: template-parts/content-none.php:26
+msgid ""
+"It seems we can not find what you are looking for. Perhaps searching can "
+"help."
+msgstr ""
+"Parece que no podemos encontrar lo que estás buscando. Quizás te sirva hacer "
+"otra búsqueda."
+
+#: template-parts/content-page.php:26 template-parts/content-post.php:67
+#: image.php:91
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: template-parts/content.php:67
+msgid "Continue reading"
+msgstr "Leer más"
+
+#. Translators: there is a space after "About".
+#: template-parts/author-bio.php:27 template-parts/author-bio.php:31
+msgid "About "
+msgstr "Sobre "
+
+#: template-parts/content-post.php:40
+msgid "Leave a comment"
+msgstr "Comentar"
+
+#: template-parts/content-post.php:40
+msgid "1 Comment"
+msgstr "1 Comentario"
+
+#: template-parts/content-post.php:40
+msgid "% Comments"
+msgstr "% Comentarios"
+
+#. Translators: There is a space after "by".
+#: template-parts/content-post.php:83
+msgid "This article was written by "
+msgstr "Este artículo fue escrito por "
+
+#: footer.php:17
+msgid "Proudly powered by %s"
+msgstr "Creado con %s"
+
+#: author.php:18
+msgid "All articles by %s"
+msgstr "Todos los artículos de %s"
+
+#. Translators: There is a space after "on".
+#: image.php:33
+msgid "Published on "
+msgstr "Publicado el "
+
+#. Translators: There is a space before and after "in".
+#: image.php:37
+msgid " in "
+msgstr " en "
+
+#: image.php:39
+msgid "Return to:"
+msgstr "Volver a:"
+
+#: image.php:48
+msgid "Link to full-size image"
+msgstr "Enlace a la imagen original"
+
+#: image.php:49
+msgid "Full resolution"
+msgstr "Resolución total"
+
+#: image.php:63
+msgid "Previous"
+msgstr "Anterior"
+
+#: image.php:64
+msgid "Next"
+msgstr "Siguiente"
+
+#: searchform.php:13 searchform.php:14
+msgctxt "label"
+msgid "Search for:"
+msgstr "Buscar:"
+
+#: searchform.php:14
+msgctxt "placeholder"
+msgid "Search"
+msgstr "Buscar"
+
+#: searchform.php:16
+msgctxt "submit button"
+msgid "Search"
+msgstr "Buscar"
